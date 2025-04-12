@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bible Passage Generator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51ff7e4a1bd601a4db7bf27011fc0d8900cc8e9c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2b0ac9b546b0f0c193a832b93483b065abc05fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bible Passage Generator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bible Passage Generator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

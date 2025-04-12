@@ -1,0 +1,15 @@
+D:\C# project\Bible-Passage-Generator\Bible Passage Generator\bin\Debug\net9.0\Bible Passage Generator.exe
+D:\C# project\Bible-Passage-Generator\Bible Passage Generator\bin\Debug\net9.0\Bible Passage Generator.deps.json
+D:\C# project\Bible-Passage-Generator\Bible Passage Generator\bin\Debug\net9.0\Bible Passage Generator.runtimeconfig.json
+D:\C# project\Bible-Passage-Generator\Bible Passage Generator\bin\Debug\net9.0\Bible Passage Generator.dll
+D:\C# project\Bible-Passage-Generator\Bible Passage Generator\bin\Debug\net9.0\Bible Passage Generator.pdb
+D:\C# project\Bible-Passage-Generator\Bible Passage Generator\obj\Debug\net9.0\Bible Passage Generator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# project\Bible-Passage-Generator\Bible Passage Generator\obj\Debug\net9.0\Bible Passage Generator.AssemblyInfoInputs.cache
+D:\C# project\Bible-Passage-Generator\Bible Passage Generator\obj\Debug\net9.0\Bible Passage Generator.AssemblyInfo.cs
+D:\C# project\Bible-Passage-Generator\Bible Passage Generator\obj\Debug\net9.0\Bible Passage Generator.csproj.CoreCompileInputs.cache
+D:\C# project\Bible-Passage-Generator\Bible Passage Generator\obj\Debug\net9.0\Bible Passage Generator.sourcelink.json
+D:\C# project\Bible-Passage-Generator\Bible Passage Generator\obj\Debug\net9.0\Bible Passage Generator.dll
+D:\C# project\Bible-Passage-Generator\Bible Passage Generator\obj\Debug\net9.0\refint\Bible Passage Generator.dll
+D:\C# project\Bible-Passage-Generator\Bible Passage Generator\obj\Debug\net9.0\Bible Passage Generator.pdb
+D:\C# project\Bible-Passage-Generator\Bible Passage Generator\obj\Debug\net9.0\Bible Passage Generator.genruntimeconfig.cache
+D:\C# project\Bible-Passage-Generator\Bible Passage Generator\obj\Debug\net9.0\ref\Bible Passage Generator.dll
